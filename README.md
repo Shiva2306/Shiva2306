@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Shiva Kumar
 
-<!--
-**Shiva2306/Shiva2306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Software Test Automation Engineer | Selenium | Cypress | Playwright | Java | JavaScript
 
-Here are some ideas to get you started:
+💡 About Me  
+I am passionate about software testing and test automation, with a strong interest in building reliable and high-quality test frameworks. I enjoy finding bugs, improving test coverage, and ensuring great user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Selenium, Cypress, Playwright
+- Java, JavaScript
+- TestNG, Cucumber, POM
+- Git, GitHub, Jenkins, CI/CD
+- Postman, API Testing
+
+## 🧪 Projects
+- Cypress Automation Framework  
+- Selenium Hybrid Framework  
+- Dream Portal Automation Project  
+
+## 📫 Contact
+- LinkedIn: www.linkedin.com/in/shiva-kumar-m-g-134b2524a
+- Email ID: ksg.vision23@gmail.com
+- Number: 8105195472
+
+
+
