@@ -15,7 +15,8 @@ I am passionate about software testing and test automation, with a strong intere
 ## 🧪 Projects
 - Cypress Automation Framework  
 - Selenium Hybrid Framework  
-- Dream Portal Automation Project  
+- Playwright Automation Project
+- Cucumber BDD Framework 
 
 ## 📫 Contact
 - LinkedIn: www.linkedin.com/in/shiva-kumar-m-g-134b2524a
